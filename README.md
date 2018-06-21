@@ -1,1 +1,1 @@
-# Buzzotel-task-Java-Script-
+# Buzzotel-task-Java Script
