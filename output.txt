@@ -1,0 +1,289 @@
+The Shawshank Redemption :  Array [ "The Green Mile" ]
+
+The Godfather :  Array [ "The Godfather: Part II", "Apocalypse Now" ]
+
+The Dark Knight : Array[ "Interstellar", "Inception", "The Dark Knight Rises", "Memento", "The Prestige", "Batman Begins" ]
+
+Pulp Fiction : Array[ "Django Unchained", "Reservoir Dogs", "Inglourious Basterds", "Kill Bill: Vol. 1" ]
+
+The Good, the Bad and the Ugly : Array[ "Once Upon a Time in the West", "Once Upon a Time in America", "For a Few Dollars More", "For a Fistful of Dollars" ]
+
+Schindler's List : Array[ "The Raiders of the Lost Ark", "Saving Private Ryan", "Indiana Jones and the Final Crusade", "Jaws", "Jurassic Park" ]
+
+12 Angry Men : Array[ "Network", "Dog Day Afternoon" ]
+
+The Lord of the Rings: The Return of the King : Array[ "The Lord of the Rings: The Fellowship of the Ring", "The Lord of the Rings: The Two Towers" ]
+
+Fight Club : Array[ "Se7en", "Gone Girl" ]
+
+Star Wars: Episode V - The Empire Strikes Back : Array[]
+
+Forrest Gump : Array[ "Back to the Future" ]
+
+One Flew Over the Cuckoo's Nest : Array[ "Amadeus" ]
+
+Goodfellas : Array[ "The Departed", "Taxi Driver", "Raging Bull", "The Wolf of Wall Street", "Casino", "Shutter Island" ]
+
+The Matrix : Array[]
+
+Star Wars : Array[]
+
+Seven Samurai : Array[ "Rash�mon", "Yojimbo", "Ikiru", "Ran" ]
+
+City of God : Array[]
+
+The Usual Suspects : Array[ "X-Men: Days of Future Past" ]
+
+The Silence of the Lambs : Array[]
+
+It's a Wonderful Life : Array[ "Mr. Smith Goes to Washington", "It Happened One Night" ]
+
+L�on : Array[]
+
+La vita � bella : Array[]
+
+Casablanca : Array[]
+
+American History X : Array[]
+
+Psycho : Array[ "Rear Window", "North by Northwest", "Vertigo", "Rebecca", "Dial M for Murder", "Strangers on a Train", "Notorious", "Rope" ]
+
+City Lights : Array[ "Modern Times", "The Great Dictator", "The Kid", "The Gold Rush" ]
+
+Sen to Chihiro no Kamikakushi : Array[ "Mononoke-hime", "Tonari no Totoro", "Hauru no ugoku shiro", "Kaze no tani no Naushika", "Tenk� no shiro Rapyuta" ]
+
+The Intouchables : Array[]
+
+T2: Judgment Day : Array[ "Aliens", "The Terminator" ]
+
+The Pianist : Array[ "Chinatown" ]
+
+Sunset Blvd. : Array[ "Witness for the Prosecution", "Double Indemnity", "The Apartment", "Some Like It Hot", "Stalag 17" ]
+
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb : Array[ "The Shining", "Paths of Glory", "A Clockwork Orange", "Full Metal Jacket", "2001: A Space Odyssey", "Barry Lyndon", "The Killing" ]
+
+Gladiator : Array[ "Alien", "Blade Runner" ]
+
+The Lives of Others : Array[]
+
+The Lion King : Array[]
+
+Nuovo Cinema Paradiso : Array[]
+
+American Beauty : Array[]
+
+WALL�E : Array[ "Finding Nemo" ]
+
+Citizen Kane : Array[ "Touch of Evil" ]
+
+Am�lie : Array[]
+
+M : Array[ "Metropolis" ]
+
+Toy Story 3 : Array[]
+
+Boyhood : Array[ "Before Sunrise", "Before Sunset" ]
+
+Das Boot : Array[]
+
+Oldboy : Array[]
+
+Hotaru no haka : Array[]
+
+Star Wars: Episode VI - Return of the Jedi : Array[]
+
+Requiem for a Dream : Array[]
+
+Braveheart : Array[]
+
+To Kill a Mockingbird : Array[]
+
+Lawrence of Arabia : Array[ "The Bridge on the River Kwai" ]
+
+Eternal Sunshine of the Spotless Mind : Array[]
+
+Singin' in the Rain : Array[]
+
+Ladri di biciclette : Array[]
+
+The Sting : Array[ "Butch Cassidy and the Sundance Kid" ]
+
+Monty Python and the Holy Grail : Array[ "Twelve Monkeys" ]
+
+Snatch. : Array[ "Lock, Stock and Two Smoking Barrels" ]
+
+Guardians of the Galaxy : Array[]
+
+All About Eve : Array[]
+
+L.A. Confidential : Array[]
+
+The Treasure of the Sierra Madre : Array[ "The Maltese Falcon" ]
+
+The Third Man : Array[]
+
+Jodaeiye Nader az Simin : Array[]
+
+Toy Story : Array[]
+
+Unforgiven : Array[ "Gran Torino", "Million Dollar Baby" ]
+
+Scarface : Array[]
+
+Taare Zameen Par : Array[]
+
+Up : Array[ "Monsters, Inc." ]
+
+Downfall : Array[]
+
+The Great Escape : Array[]
+
+Die Hard : Array[]
+
+On the Waterfront : Array[]
+
+Pan's Labyrinth : Array[]
+
+3 Idiots : Array[]
+
+Heat : Array[]
+
+Jagten : Array[ "Festen" ]
+
+Good Will Hunting : Array[]
+
+Det sjunde inseglet : Array[ "Smultronst�llet", "Persona", "Fanny och Alexander" ]
+
+The Elephant Man : Array[]
+
+The General : Array[]
+
+El secreto de sus ojos : Array[]
+
+The Big Lebowski : Array[ "Fargo" ]
+
+Warrior : Array[]
+
+V for Vendetta : Array[]
+
+The Deer Hunter : Array[]
+
+Cool Hand Luke : Array[]
+
+Rang De Basanti : Array[]
+
+How to Train Your Dragon : Array[]
+
+Rush : Array[ "A Beautiful Mind" ]
+
+Trainspotting : Array[]
+
+Dil Chahta Hai : Array[]
+
+Judgment at Nuremberg : Array[]
+
+Gone with the Wind : Array[ "The Wizard of Oz" ]
+
+Into the Wild : Array[]
+
+The Wages of Fear : Array[ "Les diaboliques" ]
+
+Hotel Rwanda : Array[]
+
+The Sixth Sense : Array[]
+
+The Thing : Array[]
+
+No Country for Old Men : Array[]
+
+Platoon : Array[]
+
+Mary and Max : Array[]
+
+12 Years a Slave : Array[]
+
+Life of Brian : Array[]
+
+Incendies : Array[]
+
+Annie Hall : Array[]
+
+Sin City : Array[]
+
+The Grand Budapest Hotel : Array[]
+
+The Princess Bride : Array[ "Stand by Me" ]
+
+There Will Be Blood : Array[]
+
+The Best Years of Our Lives : Array[ "Ben-Hur", "Roman Holiday" ]
+
+Amores perros : Array[]
+
+Les quatre cents coups : Array[]
+
+The Grapes of Wrath : Array[]
+
+Hachi: A Dog's Tale : Array[]
+
+In the Name of the Father : Array[]
+
+The Avengers : Array[]
+
+The Bourne Ultimatum : Array[]
+
+8� : Array[ "La Strada" ]
+
+Donnie Darko : Array[]
+
+Gandhi : Array[]
+
+Mou gaan dou : Array[]
+
+High Noon : Array[]
+
+Stalker : Array[]
+
+The King's Speech : Array[]
+
+Swades: We, the People : Array[ "Lagaan: Once Upon a Time in India" ]
+
+The Battle of Algiers : Array[]
+
+Harry Potter and the Deathly Hallows: Part 2 : Array[]
+
+Groundhog Day : Array[]
+
+Yip Man : Array[]
+
+The Night of the Hunter : Array[]
+
+Rocky : Array[]
+
+La haine : Array[]
+
+Who's Afraid of Virginia Woolf? : Array[ "The Graduate" ]
+
+Pirates of the Caribbean: The Curse of the Black Pearl : Array[]
+
+Salinui chueok : Array[]
+
+The Big Sleep : Array[]
+
+The Truman Show : Array[]
+
+The Help : Array[]
+
+The Hustler : Array[]
+
+Her : Array[]
+
+Fa yeung nin wa : Array[]
+
+Beauty and the Beast : Array[]
+
+Underground : Array[ "Crna macka, beli macor" ]
+
+Papillon : Array[]
+
+Bom yeoreum gaeul gyeoul geurigo bom : Array[]
